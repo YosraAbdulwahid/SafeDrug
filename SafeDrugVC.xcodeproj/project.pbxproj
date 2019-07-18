@@ -11,8 +11,8 @@
 		1880D91022E0F2F100F585F9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1880D90F22E0F2F100F585F9 /* ViewController.swift */; };
 		1880D91322E0F2F100F585F9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1880D91122E0F2F100F585F9 /* Main.storyboard */; };
 		1880D91622E0F2F100F585F9 /* SafeDrugVC.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 1880D91422E0F2F100F585F9 /* SafeDrugVC.xcdatamodeld */; };
-		1880D91822E0F2F200F585F9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1880D91722E0F2F200F585F9 /* Assets.xcassets */; };
 		1880D91B22E0F2F200F585F9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1880D91922E0F2F200F585F9 /* LaunchScreen.storyboard */; };
+		18B09B4C22E102E80071CD3A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18B09B4B22E102E70071CD3A /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,9 +21,9 @@
 		1880D90F22E0F2F100F585F9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		1880D91222E0F2F100F585F9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		1880D91522E0F2F100F585F9 /* SafeDrugVC.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = SafeDrugVC.xcdatamodel; sourceTree = "<group>"; };
-		1880D91722E0F2F200F585F9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1880D91A22E0F2F200F585F9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1880D91C22E0F2F200F585F9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18B09B4B22E102E70071CD3A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,7 +59,7 @@
 				1880D90D22E0F2F100F585F9 /* AppDelegate.swift */,
 				1880D90F22E0F2F100F585F9 /* ViewController.swift */,
 				1880D91122E0F2F100F585F9 /* Main.storyboard */,
-				1880D91722E0F2F200F585F9 /* Assets.xcassets */,
+				18B09B4B22E102E70071CD3A /* Assets.xcassets */,
 				1880D91922E0F2F200F585F9 /* LaunchScreen.storyboard */,
 				1880D91C22E0F2F200F585F9 /* Info.plist */,
 				1880D91422E0F2F100F585F9 /* SafeDrugVC.xcdatamodeld */,
@@ -126,7 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1880D91B22E0F2F200F585F9 /* LaunchScreen.storyboard in Resources */,
-				1880D91822E0F2F200F585F9 /* Assets.xcassets in Resources */,
+				18B09B4C22E102E80071CD3A /* Assets.xcassets in Resources */,
 				1880D91322E0F2F100F585F9 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
